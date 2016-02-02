@@ -1,0 +1,45 @@
+/* Inserta tu CSS aqui */
+.verde{
+	width: 800px;
+	height: 500px;
+	background-color: green;
+	padding: 30px;
+	
+}
+.interior{
+	
+    border: 3px solid #ffffff;
+    width: 750px;
+    height: 450px;
+    margin:15px 20px 15px 20px;
+}
+    
+    .interior1{
+
+	
+    border: 3px solid #ffffff;
+    width: 150px;
+    height: 250px;
+    margin-top: 100px;
+
+
+ }
+
+ .interior2{
+	
+    border: 3px solid #ffffff;
+    width: 150px;
+    height: 250px;
+    
+    position: absolute;
+    right: 550px;
+    top: 150px;
+   
+
+ }
+ .circulo
+ { 
+
+	border-radius: 25px solid #ffffff;
+	background-color: red;
+ }
