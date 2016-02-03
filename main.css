@@ -21,6 +21,7 @@
     width: 150px;
     height: 250px;
     margin-top: 100px;
+    background: #5cb85c;
 
 
  }
@@ -34,12 +35,37 @@
     position: absolute;
     right: 550px;
     top: 150px;
+    background: #5cb85c;
    
 
  }
+ 
  .circulo
  { 
 
-	border-radius: 25px solid #ffffff;
-	background-color: red;
- }
+	  width: 250px;
+     height: 250px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     
+     border: 3px solid #ffffff;
+    position: absolute;
+    right: 250px;
+}
+
+.boli1{
+	
+    right: 750px;
+    top: 300px;
+}
+.boli2{
+	position: absolute;
+    right: 950px;
+    top: 200px;
+}
+.boli3{
+
+    right: 1000px;
+    top: 300px;
+}
